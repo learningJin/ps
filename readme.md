@@ -6,7 +6,7 @@
 
 
 ### node.js I/O
-[출처](https://mingcoder.me/2020/01/15/Programming/etc/acmicpc-nodejs-input/)
+[내용 출처](https://mingcoder.me/2020/01/15/Programming/etc/acmicpc-nodejs-input/)
 ``` javascript
 var fs = require("fs")
 
